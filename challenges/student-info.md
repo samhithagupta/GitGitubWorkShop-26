@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: Samhitha_Gupta
+- Roll Number: 160125737174
+- Section: IT-3
+- GitHub Username: samhithagupta
